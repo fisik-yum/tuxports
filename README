@@ -1,0 +1,16 @@
+tuxports: A conversion of older tuxracer and planetpenguin racer course
+for extreme tux racer.
+
+All of these courses are licensed under GPL, version 2. I've gone to my 
+furthest to verify this.
+
+There is plenty of jank that I still have to clear up.
+The course "doing" from planet penguinracer-extras has some textures that
+dont render properly.
+Other "jank" may include improper placement of trees, bad scaling 
+and improper start points.
+I could not test all tracks to see of they are faithful to the originals.
+I would really appreciate if anyonw could test the planet penguin racer
+tracks and let me know. I've left a link to the windows version of the game.
+It should run fine on wine too.
+https://planetpenguin-racer.en.softonic.com/
